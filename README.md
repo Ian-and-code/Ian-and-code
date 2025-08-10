@@ -8,6 +8,6 @@
 ## estoy aprendiendo 
 
 
-!(pygame)[pygame.jpg]
+!(pygame)[pygame.png]
 
 
