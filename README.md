@@ -6,7 +6,7 @@ markdown
 
 python
 
-![python](https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpg)
+![python](https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg)
 
 ## estoy aprendiendo 
 
