@@ -1,13 +1,13 @@
 ## lenguajes que se
 
 
-!(mrarkdown)[https://github.com/Ian-and-code/Ian-and-code]
+![markdown](https://github.com/Ian-and-code/Ian-and-code/blob/main/markdown.png)
 
-!(python)[python.jpg]
+![python](https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpg)
 
 ## estoy aprendiendo 
 
 
-!(pygame)[pygame.png]
+![oygame](https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png)
 
 
