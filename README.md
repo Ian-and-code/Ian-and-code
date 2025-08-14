@@ -7,11 +7,11 @@ markdown
 
 python
 
-<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg" width="50%" height="50%">
+<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg" width="25%" height="25%">
 
 ## estoy aprendiendo 
 
 pygame
 
-<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png" width="50%" height="50%">
+<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png" width="75%" height="75%">
 
