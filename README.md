@@ -7,7 +7,7 @@ markdown
 
 python
 
-<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg" width="30%" height="30%">
+<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg" width="40%" height="40%">
 
 ## estoy aprendiendo 
 
