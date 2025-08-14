@@ -1,9 +1,4 @@
-<style>
- img {
-   width: 50%;
-   height: 50%;
- }
-</style>
+
 ## lenguajes que se
 
 markdown
@@ -12,11 +7,11 @@ markdown
 
 python
 
-<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg">
+<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg" width="50%" height="50%">
 
 ## estoy aprendiendo 
 
 pygame
 
-<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png">
+<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png" width="50%" height="50%">
 
