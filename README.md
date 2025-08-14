@@ -8,7 +8,7 @@
 
 markdown
 
-<img alt="markdown" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/markdown.png">
+<img alt="markdown" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/markdown.png" width="50%" height="50%">
 
 python
 
