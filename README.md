@@ -2,15 +2,15 @@
 
 markdown
 
-<img alt="markdown" href="https://github.com/Ian-and-code/Ian-and-code/blob/main/markdown.png">
+<img alt="markdown" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/markdown.png">
 
 python
 
-<img alt="python" href="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg">
+<img alt="python" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/python.jpeg">
 
 ## estoy aprendiendo 
 
 pygame
 
-<img alt="pygame" href="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png">
+<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png">
 
