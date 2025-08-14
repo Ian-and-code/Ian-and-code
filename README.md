@@ -13,5 +13,5 @@ python
 
 pygame
 
-<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png" width="75%" height="75%">
+<img alt="pygame" src="https://github.com/Ian-and-code/Ian-and-code/blob/main/pygame.png" width="65%" height="65%">
 
