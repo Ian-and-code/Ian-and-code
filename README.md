@@ -12,3 +12,5 @@ python y pygame
 ## estoy aprendiendo
 
 python lex yacc
+
+\fract{pi}{2}
