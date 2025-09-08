@@ -13,4 +13,6 @@ python y pygame
 
 python lex yacc
 
-\fract{pi}{2}
+$$3^{4^5} + \frac{1}{2}$$
+
+$$int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}$$
