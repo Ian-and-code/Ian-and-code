@@ -11,8 +11,5 @@ python y pygame
 
 ## estoy aprendiendo
 
-python lex yacc
+python lex yacc y rpython lex yacc
 
-$$3^{4^5} + \frac{1}{2}$$
-
-$$int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}$$
