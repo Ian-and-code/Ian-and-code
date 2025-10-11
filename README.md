@@ -11,5 +11,5 @@ python y pygame
 
 ## estoy aprendiendo
 
-manim
+gds/godot
 
